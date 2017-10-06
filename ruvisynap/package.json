@@ -1,0 +1,19 @@
+{
+  "name": "ruvisynap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martín Alejandro Fernández",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "http": "0.0.0",
+    "httpclient": "^0.1.0",
+    "method-override": "^2.3.9"
+  }
+}
